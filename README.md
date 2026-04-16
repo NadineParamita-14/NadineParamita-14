@@ -56,7 +56,7 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
 ### 🌐 Connect with Me
 <div align="center">
 
-<a href="www.linkedin.com/in/nadineparamita" target="blank">
+<a href="https://www.linkedin.com/in/nadineparamita" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:nadine.riskia14@gmail.com" target="blank">
