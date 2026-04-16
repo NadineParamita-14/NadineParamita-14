@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Nadine Paramita 👋
-### Machine Learning Engineer | Data Scientist | Full-Stack Developer
+### AI Enthusiast | Informatics Student
 
 
 </div>
