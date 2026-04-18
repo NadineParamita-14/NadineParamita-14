@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 I am a tech-driven individual specializing in **Machine Learning**, **Data Analytics**, and **System Development**. My core focus is on building intelligent systems and extracting insights from complex datasets to solve real-world technical challenges.
 
 - 🔭 **Current Project:** Architecting **NeoKarir**, an AI-driven career assistant utilizing personalized recommendation algorithms.
@@ -18,7 +18,9 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
     
 ---
 
-### 🛠️ Tech Stack & Skills
+
+
+### Tech Stack & Skills
 <div align="left">
 
 **Development & Systems**
@@ -44,7 +46,7 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NadineParamita-14&show_icons=true&theme=radical&hide_border=true&align=center" alt="Nadine's GitHub Stats" />
   <br />
@@ -53,7 +55,7 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nadineparamita" target="blank">
@@ -72,3 +74,5 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
 <p align="center">
   <i>"Leveraging AI and Software Engineering to build robust, data-driven solutions."</i>
 </p>
+
+
