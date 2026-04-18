@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nadine Paramita 👋
+# Hi, I'm Nadine Paramita <img src="https://c.tenor.com/Zhf3tC7b0AcAAAAi/white-cat-pizza.gif" width="40" /> 
 ### AI Enthusiast | Informatics Student
 
 
