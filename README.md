@@ -17,7 +17,11 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
   - **Computer Vision:** Experienced in image classification tasks leveraging the **MobileNetV2** architecture.
     
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NadineParamita-14/NadineParamita-14/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NadineParamita-14/NadineParamita-14/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NadineParamita-14/NadineParamita-14/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ### Tech Stack & Skills
