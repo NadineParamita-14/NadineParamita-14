@@ -77,12 +77,12 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
 
 ---
 <p align="center">
-  <i>"Leveraging AI and Software Engineering to build robust solutions... while praying my code compiles on the first try without 99+ errors."</i> 😂🙏
+  <i>"Leveraging AI and Software Engineering to build robust solutions... while praying my code compiles on the first try without 99+ errors."</i>
 </p>
 
 <div align="center">
-  <img src="https://c.tenor.com/8WbfUnK_A9sAAAAd/larry-larry-baby.gif" alt="Programmer Mood Meme" width="200px" />
+  <img src="larry-larry-baby.gif" width="200px" />
   <br />
-  <i>(Actual footage of me debugging at 3 AM)</i>
+  <i>(tor monitor ketua)</i>
 </div>
 
