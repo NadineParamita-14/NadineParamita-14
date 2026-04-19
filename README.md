@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nadine Paramita <img src="https://media.tenor.com/uEKZlGV8Ny0AAAAj/cat-cute.gif" width="75" /> 
+# Hi, I'm Nadine Paramita <img src="https://media.tenor.com/uEKZlGV8Ny0AAAAj/cat-cute.gif" width="75" style="vertical-align: middle; margin-bottom: 10px;" /> 
 ### AI Enthusiast | Informatics Student
 
 
@@ -11,10 +11,11 @@
 ### About Me
 I am a tech-driven individual specializing in **Machine Learning**, **Data Analytics**, and **System Development**. My core focus is on building intelligent systems and extracting insights from complex datasets to solve real-world technical challenges.
 
-- 🔭 **Current Project:** Architecting **NeoKarir**, an AI-driven career assistant utilizing personalized recommendation algorithms.
-- 🏦 **Featured Work:** Engineered a **Digital Cooperative System** for PDAM Tirta Mulia Pemalang, implementing full-cycle management for Members, Loans, and automated **SHU (Net Profit)** distribution logic.
-- 🧠 **Technical Research & AI Models:** - **Natural Language Processing:** Deeply engaged in advanced sentiment analysis using **IndoBERT, BiLSTM, Word2Vec, LSTM, and SVM**.
-  - **Computer Vision:** Experienced in image classification tasks leveraging the **MobileNetV2** architecture.
+🪷 **Current Project:** Architecting **NeoKarir**, an AI-driven career assistant utilizing personalized recommendation algorithms.
+
+🪷 **Digital Cooperative System:** Developed a full-cycle financial management system (Members, Loans, & SHU) for PDAM Pemalang.
+
+🪷 **AI Research:** **NLP:** Sentiment analysis using **IndoBERT, BiLSTM, Word2Vec, LSTM, & SVM**; **Computer Vision:** Image classification with **MobileNetV2**.
     
 ---
 <picture>
@@ -29,22 +30,22 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
 
 **Development & Systems**
 <br />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-4B3621?style=for-the-badge&logo=python&logoColor=FADADD" />
+<img src="https://img.shields.io/badge/PHP-5D3F6A?style=for-the-badge&logo=php&logoColor=FADADD" />
+<img src="https://img.shields.io/badge/Laravel-800020?style=for-the-badge&logo=laravel&logoColor=FADADD" />
+<img src="https://img.shields.io/badge/MySQL-2E4053?style=for-the-badge&logo=mysql&logoColor=FADADD" />
 
 **Machine Learning & Data Science**
 <br />
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green?style=for-the-badge&logo=data-science" />
-<img src="https://img.shields.io/badge/Computer%20Vision-MobileNetV2-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-2D5A27?style=for-the-badge&logo=data-science&logoColor=FADADD" />
+<img src="https://img.shields.io/badge/MobileNetV2-6F4E37?style=for-the-badge&logo=cpu&logoColor=FADADD" />
+<img src="https://img.shields.io/badge/Scikit--Learn-A0522D?style=for-the-badge&logo=scikitlearn&logoColor=FADADD" />
+<img src="https://img.shields.io/badge/Pandas-191970?style=for-the-badge&logo=pandas&logoColor=FADADD" />
 
 **Tools**
 <br />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-3B3C36?style=for-the-badge&logo=git&logoColor=FADADD" />
+<img src="https://img.shields.io/badge/VS_Code-002244?style=for-the-badge&logo=visual-studio-code&logoColor=FADADD" />
 
 </div>
 
