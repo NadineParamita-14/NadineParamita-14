@@ -83,6 +83,5 @@ I am a tech-driven individual specializing in **Machine Learning**, **Data Analy
 <div align="center">
   <img src="larry-larry-baby.gif" width="200px" />
   <br />
-  <i>(tor monitor ketua)</i>
 </div>
 
